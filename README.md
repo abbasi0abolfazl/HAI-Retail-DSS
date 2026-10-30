@@ -4,6 +4,8 @@
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-41CD52.svg?logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+[🇮🇷 مستندات فارسی (Persian Documentation)](README.fa.md) • [Report Issues](https://github.com/abbasi0abolfazl/HAI-Retail-DSS/issues)
+
 An interactive, simulation-driven Decision Support System (DSS) exploring **Hybrid Human-AI Interaction (HAI)**, Explainable AI (XAI), Fuzzy Risk Management, and Algorithmic Fairness in retail pricing and inventory allocation.
 
 ---
