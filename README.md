@@ -1,10 +1,10 @@
-# HAI-Retail DSS (Hybrid Human-AI Retail Decision Support System)
+# hai-retail-dss (Hybrid Human-AI Retail Decision Support System)
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-41CD52.svg?logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-[🇮🇷 مستندات فارسی (Persian Documentation)](README.fa.md) • [Report Issues](https://github.com/abbasi0abolfazl/HAI-Retail-DSS/issues)
+[🇮🇷 مستندات فارسی (Persian Documentation)](README.fa.md) • [Report Issues](https://github.com/abbasi0abolfazl/hai-retail-dss/issues)
 
 An interactive, simulation-driven Decision Support System (DSS) exploring **Hybrid Human-AI Interaction (HAI)**, Explainable AI (XAI), Fuzzy Risk Management, and Algorithmic Fairness in retail pricing and inventory allocation.
 
@@ -14,7 +14,7 @@ An interactive, simulation-driven Decision Support System (DSS) exploring **Hybr
 
 In high-stakes retail environments, fully autonomous AI systems often fail due to corner-case inventory risks, unmodeled externalities (e.g., weather anomalies), or margin disparities. Conversely, pure human decision-making suffers from cognitive bias and slow response times. 
 
-**HAI-Retail DSS** models a collaborative human-machine equilibrium:
+**hai-retail-dss** models a collaborative human-machine equilibrium:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -93,8 +93,8 @@ In high-stakes retail environments, fully autonomous AI systems often fail due t
 ### 1. Clone & Setup Environment
 
 ```bash
-git clone https://github.com/abbasi0abolfazl/HAI-Retail-DSS.git
-cd HAI-Retail-DSS
+git clone https://github.com/abbasi0abolfazl/hai-retail-dss.git
+cd hai-retail-dss
 
 # Create virtual environment
 python3 -m venv .venv
@@ -115,7 +115,7 @@ python main.py
 ## 📂 Repository Structure
 
 ```
-HAI-Retail-DSS/
+hai-retail-dss/
 ├── main.py             # Complete PyQt5 UI, Matplotlib canvas, and simulation engine
 ├── pyproject.toml      # Project metadata and dependencies
 ├── requirements.txt    # Frozen dependencies
